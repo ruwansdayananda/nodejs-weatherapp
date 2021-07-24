@@ -4,7 +4,8 @@
   "description": "Following instructions from\r https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
