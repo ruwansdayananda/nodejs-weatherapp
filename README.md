@@ -153,6 +153,5 @@ let weatherTextExpanded = `It's ${weather.main.temp} degrees, with
 ```
 
 
-//
 
 .
